@@ -1,0 +1,8 @@
+{
+  "name": "HousingCookies",
+  "creator": "Al3xWarrior",
+  "description": "Handle cookies on your house!!",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["axios", "requestv2", "Vigilance"]
+}
